@@ -304,6 +304,13 @@
   dependencies:
     "@types/json-schema" "^7.0.11"
 
+"@asyncapi/specs@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@asyncapi/specs/-/specs-4.3.1.tgz#835dbed92253654407a5c6416755fa69d5332bea"
+  integrity sha512-EfexhJu/lwF8OdQDm28NKLJHFkx0Gb6O+rcezhZYLPIoNYKXJMh2J1vFGpwmfAcTTh+ffK44Oc2Hs1Q4sLBp+A==
+  dependencies:
+    "@types/json-schema" "^7.0.11"
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.16.0", "@babel/code-frame@^7.8.3":
   version "7.22.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.22.5.tgz#234d98e1551960604f1246e6475891a570ad5658"
