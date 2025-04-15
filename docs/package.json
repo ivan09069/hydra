@@ -21,7 +21,7 @@
     "regenerate-plantuml": "./scripts/regenerate-plantuml.sh"
   },
   "dependencies": {
-    "@asyncapi/specs": "4.2.1",
+    "@asyncapi/specs": "4.3.1",
     "@docusaurus/core": "^3.6.3",
     "@docusaurus/plugin-client-redirects": "^3.6.3",
     "@docusaurus/plugin-content-docs": "^3.6.3",
